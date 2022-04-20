@@ -22,6 +22,10 @@
 - 어려웠던 점: Toggle 시 발생하는 애니메이션 구현 방법에 대해 고민해야 했습니다.
 - 해결방안: 좌우로 slide하는 div `ToggleBox`를 만들기로 결정하였고, style transform 속성의 translateX를 사용하여 슬라이딩 구현하였습니다.
 
+#### Preview
+
+<img src="./previews/toggle.gif" />
+
 ---
 
 ### 2. Tab.js
